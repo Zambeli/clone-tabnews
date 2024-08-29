@@ -1,8 +1,7 @@
 function Home() {
   return (
     <h1>
-      Olá mãe, so queria lhe dizer q t amo e pedir 20 reais emprestado ou
-      comprar um açai para mim xD. 💕
+      Olá mãe e pai, so queria dizer que amo vcs 💕
     </h1>
   );
 }
