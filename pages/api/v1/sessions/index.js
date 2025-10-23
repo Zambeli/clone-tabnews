@@ -34,5 +34,5 @@ async function deleteHandler(request, response) {
 
   controller.clearSessionCookie(response);
 
-  return response.status(200).json(expiredSession);
+  response.status(200).json(expiredSession);
 }
